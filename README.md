@@ -14,8 +14,8 @@ The program starts with a 9 different kinds of choice, It includes:
 
 
 
-                               **********points to note**************
-User need not want to input the file extension for ex, srithin.txt can be simply inputed as srithin
+**********************************points to note**********************************
+User need not want to input the file extension for ex, srithin.txt can be simply inputed as srithin.
 Always make sure that the key name is not already existed in the directory while generating a key.
 If you are creating your own key without a key generator, always make sure that all characters are included and characters are writtern in a single line.
 The key txt file should contain only one single line which should be at the top or at the beginnig of the txt file.
